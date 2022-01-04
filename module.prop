@@ -1,0 +1,6 @@
+id=liboemcrypto-disabler
+name=liboemcrypto Disabler
+version=V1.0
+versionCode=10
+author=afaneh92, Ianmacd
+description=Disable liboemcrypto for Samsung Devices.
